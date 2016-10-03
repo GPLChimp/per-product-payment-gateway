@@ -1,6 +1,6 @@
 === Per Product Payment Gateways for Woocommerce   ===
 
-Contributors: drvmehta	
+Contributors: gplchimp	
 
 Donate link: https://gplchimp.com/woocommerce-extensions/
 
